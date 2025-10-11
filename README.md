@@ -10,7 +10,7 @@ It contains basic string manipulation, user input handling, and program structur
 - Prompts the user for a **noun**, **verb**, and **adjective**  
 - Uses **String parsing** (`indexOf` and `substring`) to find and replace placeholders (`<noun>`, `<verb>`, `<adjective>`)  
 - Displays a complete, user-generated story
-- Bonus feature: The seperate story creation code allows the user to create their own basic story without the predefined template
+- Bonus feature: The seperate story creation code allows the user to create their own basic story and type out their own template without the predefined template
 
 ---
 
