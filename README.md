@@ -9,10 +9,11 @@ It contains basic string manipulation, user input handling, and program structur
 ## Features
 - Prompts the user for a **noun**, **verb**, and **adjective**  
 - Uses **String parsing** (`indexOf` and `substring`) to find and replace placeholders (`<noun>`, `<verb>`, `<adjective>`)  
-- Displays a complete, user-generated story  
+- Displays a complete, user-generated story
+- Bonus feature: The seperate story creation code allows the user to create their own basic story without the predefined template
 
 ---
 
 ## Example Story
 
-**I went to the zoo to see a <noun>. There were people <verb> around the enclosure which made the <adjective> apes go bananas.**
+**I went to the zoo to see a [noun]. There were people [verb] around the enclosure which made the [adjective] apes go bananas.**
