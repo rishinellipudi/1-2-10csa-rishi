@@ -1,1 +1,18 @@
 # 1-2-10csa-rishi
+
+This Java program is a **Mad Libs generator** that asks the user for three words (a **noun**, **verb**, and **adjective**) and fills them into a story template using **`indexOf()`** and **`substring()`** methods to replace placeholders.
+
+It contains basic string manipulation, user input handling, and program structure.
+
+---
+
+## Features
+- Prompts the user for a **noun**, **verb**, and **adjective**  
+- Uses **String parsing** (`indexOf` and `substring`) to find and replace placeholders (`<noun>`, `<verb>`, `<adjective>`)  
+- Displays a complete, user-generated story  
+
+---
+
+## Example Story
+
+**I went to the zoo to see a <noun>. There were people <verb> around the enclosure which made the <adjective> apes go bananas.**
