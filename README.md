@@ -21,6 +21,8 @@ It contains basic string manipulation, user input handling, and program structur
 ## Screenshots
 
 ![Screenshot of homepage](https://github.com/rishinellipudi/1-2-10csa-rishi/blob/main/images/OriginalTemplate.png)
+
+
 ![Screenshot of homepage](https://github.com/rishinellipudi/1-2-10csa-rishi/blob/main/images/StoryCreation.png)
 
 
